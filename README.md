@@ -95,7 +95,8 @@ plt.show()
 
 ## Output:
 
- http://localhost:8888/tree?token=22f68d5794669378da3bac14b9f3c45c0177dd262996799e
+<img width="548" height="453" alt="image" src="https://github.com/user-attachments/assets/d70ddf34-8342-48af-bcf4-5d2eef4bdd30" />
+
 
 ## Result:
 Thus, the SVM model was successfully implemented to classify food items for diabetic patients, with hyperparameter tuning optimizing the model's performance.
